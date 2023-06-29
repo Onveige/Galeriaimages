@@ -1,0 +1,6 @@
+<div class="gallery">
+    <img src="image1.jpg" alt="Imagem 1">
+    <img src="image2.jpg" alt="Imagem 2">
+    <img src="image3.jpg" alt="Imagem 3">
+    <!-- Adicione mais imagens aqui -->
+</div>
